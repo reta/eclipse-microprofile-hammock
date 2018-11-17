@@ -69,6 +69,7 @@
 			<groupId>ws.ament.hammock</groupId>
 			<artifactId>test-arquillian</artifactId>
 			<version>${hammock.version}</version>
+			<scope>test</scope>
 		</dependency>
 
 		<dependency>
